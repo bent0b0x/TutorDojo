@@ -18,7 +18,7 @@
 1. [Contributing](#contributing)
 
 ## Usage
-http://learnitnow.herokuapp.com/
+http://tutordojo.herokuapp.com/
 
 If you have knowledge to share, sign in and post.
 If you want to learn, just sign up with your email.

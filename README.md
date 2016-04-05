@@ -4,9 +4,9 @@
 
 ## Team
 
-  - __Product Owner__: Kelly von Borstel
-  - __Scrum Master__: Devonte MacGlashan
-  - __Development Team Members__: Maz Atighi, Pierre Teo, Pedro Torres-Picon
+  - __Product Owner__: Josh Riesenbach
+  - __Scrum Master__: Jordan Murphy
+  - __Development Team Members__: Ben Baum, Michelle Thorsell
   
 ## Table of Contents
 

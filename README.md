@@ -1,4 +1,4 @@
-# Learn it Now!
+# TutorDojo
 
  A live one-on-one knowledge sharing platform.
 
